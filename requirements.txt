@@ -1,6 +1,7 @@
 pandas
 numpy
 scikit-learn
-google-generativeai
+google-genai
 python-dotenv
 lightgbm
+catboost
